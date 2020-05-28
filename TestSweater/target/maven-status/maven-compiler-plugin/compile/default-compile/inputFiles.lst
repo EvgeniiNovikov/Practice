@@ -1,0 +1,17 @@
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\model\dto\CaptchaResponseDto.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\config\MvcConfig.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\config\WebSecurityConfig.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\controller\ControllerUtils.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\repos\UserRepo.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\service\UserService.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\model\Role.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\model\User.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\repos\MessageRepo.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\controller\RegistrationController.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\service\MailSender.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\config\EncriptionConfig.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\Application.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\config\MailConfig.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\model\Message.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\controller\MainController.java
+G:\BelHard\Lessons\TestSweater\src\main\java\com\example\spring\TestSweater\controller\UserController.java

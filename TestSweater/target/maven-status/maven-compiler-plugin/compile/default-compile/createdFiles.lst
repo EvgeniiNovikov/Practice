@@ -1,0 +1,16 @@
+com\example\spring\TestSweater\repos\MessageRepo.class
+com\example\spring\TestSweater\model\Role.class
+com\example\spring\TestSweater\repos\UserRepo.class
+com\example\spring\TestSweater\controller\ControllerUtils.class
+com\example\spring\TestSweater\Application.class
+com\example\spring\TestSweater\config\WebSecurityConfig.class
+com\example\spring\TestSweater\model\Message.class
+com\example\spring\TestSweater\config\EncriptionConfig.class
+com\example\spring\TestSweater\model\User.class
+com\example\spring\TestSweater\service\MailSender.class
+com\example\spring\TestSweater\config\MvcConfig.class
+com\example\spring\TestSweater\controller\UserController.class
+com\example\spring\TestSweater\controller\RegistrationController.class
+com\example\spring\TestSweater\controller\MainController.class
+com\example\spring\TestSweater\model\dto\CaptchaResponseDto.class
+com\example\spring\TestSweater\service\UserService.class
